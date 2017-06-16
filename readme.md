@@ -5,3 +5,7 @@ In this tutorial, you learn how to build a native-like mobile application with I
 Follow the step-by-step instructions available here: http://ccoenraets.github.io/ionic-tutorial/
 
 Link here:  https://ccoenraets.github.io/ionic-tutorial/create-ionic-application.html
+
+Useful video tut:  https://www.youtube.com/watch?v=O2WiI9QrS5s&feature=youtu.be
+
+
